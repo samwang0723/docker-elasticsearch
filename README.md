@@ -1,5 +1,5 @@
 # docker-elasticsearch
-Elasticsearch within docker
+Elasticsearch within docker, Elasticsearch version `v6.5.4`
 
 ## Command
 
